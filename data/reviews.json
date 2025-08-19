@@ -14,7 +14,7 @@
     "overall": 9,
     "one_liner": "Creamy cap and clean glass. Belfast doing the business.",
     "date": "2025-08-10",
-    "image_url": "assets/pints/bittles.jpg",
+    "image_url": "assets/bittles.jpg",
     "target_locked": true
   },
   {
@@ -32,7 +32,7 @@
     "overall": 8,
     "one_liner": "Soft pour with a tidy dome. Could drink a few.",
     "date": "2025-08-11",
-    "image_url": "https://images.unsplash.com/photo-1543512214-318c7553f230?q=80&w=1600&auto=format&fit=crop",
+    "image_url": "",
     "target_locked": false
   },
   {
@@ -50,7 +50,7 @@
     "overall": 7,
     "one_liner": "Decent head and a bit of bite. Solid Beamish.",
     "date": "2025-08-12",
-    "image_url": "https://images.unsplash.com/photo-1459314079206-4b1bca4e9f21?q=80&w=1600&auto=format&fit=crop",
+    "image_url": "",
     "target_locked": false
   },
   {
@@ -86,7 +86,7 @@
     "overall": 6,
     "one_liner": "Could be down to the glass wash. Decent flavour though.",
     "date": "2025-08-17",
-    "image_url": "LisburnGolfClub.jpg",
+    "image_url": "assets/LisburnGolfClub.jpg",
     "target_locked": false
   }
 ]
