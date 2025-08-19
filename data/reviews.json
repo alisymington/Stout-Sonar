@@ -73,8 +73,8 @@
   },
   {
     "id": "Lisburn-Golf-Club",
-    "brand": "Craft",
-    "bar": "19th Hole",
+    "brand": "Guinness",
+    "bar": "Lisburn Golf Club",
     "city": "Lisburn",
     "country": "Northern Ireland",
     "lat": 55.1930,
@@ -86,7 +86,7 @@
     "overall": 6,
     "one_liner": "Could be down to the glass wash. Decent flavour though.",
     "date": "2025-08-17",
-    "image_url": "assets/LisburnGolfClub.jpg",
+    "image_url": "assets/LisburnGolfClub.JPG",
     "target_locked": false
   }
 ]
